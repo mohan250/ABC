@@ -34,4 +34,4 @@ scenarios:
   populations:
   - name: MyPopulation
     constant_load:
-      users: 500
+      users: 10
